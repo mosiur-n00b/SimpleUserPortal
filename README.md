@@ -1,7 +1,7 @@
 # SimpleUserPortal
 
 In this simple project, I've developed a simple user portal, where only registered users can login using
-email and password. I've used phpMyAdmin localhost to manage a MySQL database running on my local XAMPP server.
+email and password. I've also used phpMyAdmin localhost to manage a MySQL database running on my local XAMPP server.
 
 Tools & Technology:
 
