@@ -7,7 +7,7 @@ Tools & Technology:
 
 1. Database: MySQL
 2. Front-End: HTML, CSS, jQuery
-3. Back-End: PHP
+3. Back-End: raw PHP (Sorry, I've a little bit of knowledge of Laravel and CakePHP)
 
 Features:
 
